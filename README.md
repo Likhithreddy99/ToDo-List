@@ -25,7 +25,7 @@ I’m Likhith Reddy, a B.Tech CSE student. I made this project to practice JavaS
 It’s beginner-friendly but fully functional—perfect for a mini project demo. 😎
 
 ## Live Demo
-Check it out live here: [GitHub Pages Link](https://Likhithreddy99.github.io/todo-list/)
+Check it out live here: [Check The Project Here]([https://Likhithreddy99.github.io/todo-list/])
 
 ## Tech Stuff
 - HTML  
